@@ -15,5 +15,5 @@
 
 </div>
 <p align = "center">
-  <img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=heart-to-the-sea&theme=tokyonight" width="50%" >
+  <img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=heart-to-the-sea&theme=tokyonight" width="100%" >
 </p>
