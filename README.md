@@ -14,3 +14,8 @@
 </p>
 
 </div>
+<p align = "center">
+  <img align = "left" src = "https://activity-graph.herokuapp.com/graph?username=heart-to-the-sea&theme=tokyonight" width="50%" >
+</p>
+https://activity-graph.herokuapp.com/graph
+https://activity-graph.herokuapp.com/graph?username=VaynePeng&theme=minimal
