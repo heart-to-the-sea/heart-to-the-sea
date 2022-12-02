@@ -14,6 +14,4 @@
 </p>
 
 </div>
-<p align = "center">
-  <img align = "center" src = "https://activity-graph.herokuapp.com/graph?username=heart-to-the-sea&theme=dark" width="100%" >
-</p>
+
