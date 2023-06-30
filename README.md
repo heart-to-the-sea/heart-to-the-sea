@@ -8,8 +8,7 @@
 
 
 <div>
-  
-<p align = "left" style="margin-top:10px;">
+<p align = "left" style="margin-top:10px;display:block !important;" >
   <img align="left" src = "https://komarev.com/ghpvc/?username=heart-to-the-sea">
 </p>
 
