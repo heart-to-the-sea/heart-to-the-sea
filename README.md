@@ -15,5 +15,5 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heart-to-the-sea&theme=dark)](https://github.com/heart-to-the-sea)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heart-to-the-sea&theme=tokyonight)](https://github.com/heart-to-the-sea)
 
