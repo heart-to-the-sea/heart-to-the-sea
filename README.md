@@ -7,12 +7,7 @@
 </p>
 
 
-<div>
-<p align = "left" style="margin-top:10px;display:block !important;" >
-  <img align="left" src = "https://komarev.com/ghpvc/?username=heart-to-the-sea">
-</p>
-
-</div>
+<img align="left" src = "https://komarev.com/ghpvc/?username=heart-to-the-sea">
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heart-to-the-sea&theme=github-compact)](https://github.com/heart-to-the-sea)
