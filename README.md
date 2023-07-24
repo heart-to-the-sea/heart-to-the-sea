@@ -14,3 +14,6 @@
 
 </div>
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heart-to-the-sea&theme=minimal)](https://github.com/heart-to-the-sea)
+
