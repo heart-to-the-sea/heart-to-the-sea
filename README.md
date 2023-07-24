@@ -9,8 +9,6 @@
   <img align = "left" src = "https://github-profile-trophy.vercel.app/?username=heart-to-the-sea&theme=tokyonight" width="50%" >
 </p>
 
-## commits
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heart-to-the-sea&theme=github-compact)](https://github.com/heart-to-the-sea)
 
 
